@@ -108,7 +108,7 @@ This will launch the browser UI where users can upload CT scan images and get pr
 
 ## 📦 Model Files
 
-Trained model files are stored externally due to size limits and can be downloaded automatically by the application during runtime.
+Trained model files are stored externally due to size limits and need to be downloaded link is https://drive.google.com/drive/folders/1geF2-3KZAfcgIkyy7zWG3xEtRVT649Ga?usp=sharing
 
 ---
 
@@ -132,5 +132,4 @@ Trained model files are stored externally due to size limits and can be download
 ---
 
 ## 📝 License
-
 This project is for educational and research use only.
